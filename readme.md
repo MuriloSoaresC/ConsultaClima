@@ -1,0 +1,1 @@
+Projeto de consulta de clima da cidade pesquisada com consulta a API Openweathermap, feito em aula com o intuito de fixar os conhecimentos em consultas de API's.
